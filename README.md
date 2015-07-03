@@ -1,2 +1,2 @@
 # Apollo-ELK
-ELK stack running in standalone mode with docker, weave and consul
+ELK stack running in standalone mode with docker compose
